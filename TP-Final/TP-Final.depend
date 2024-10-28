@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1730121964 source:c:\users\nicol\onedrive\desktop\estudio\universidad\materias-c2\programacion - 2\9 - tp - final\tp final grupo\tp-final\main.cpp
+	<iostream>
+	"Cliente.h"
+	"Fecha.h"
+
+1730068571 c:\users\nicol\onedrive\desktop\estudio\universidad\materias-c2\programacion - 2\9 - tp - final\tp final grupo\tp-final\fecha.h
+	"string"
+
+1730122622 source:c:\users\nicol\onedrive\desktop\estudio\universidad\materias-c2\programacion - 2\9 - tp - final\tp final grupo\tp-final\persona.cpp
+	"Persona.h"
+	<iostream>
+	"cstring"
+
+1730069095 c:\users\nicol\onedrive\desktop\estudio\universidad\materias-c2\programacion - 2\9 - tp - final\tp final grupo\tp-final\persona.h
+	"Fecha.h"
+
+1730073434 source:c:\users\nicol\onedrive\desktop\estudio\universidad\materias-c2\programacion - 2\9 - tp - final\tp final grupo\tp-final\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1730122783 source:c:\users\nicol\onedrive\desktop\estudio\universidad\materias-c2\programacion - 2\9 - tp - final\tp final grupo\tp-final\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1730122290 c:\users\nicol\onedrive\desktop\estudio\universidad\materias-c2\programacion - 2\9 - tp - final\tp final grupo\tp-final\cliente.h
+	"Persona.h"
+
+1730064727 source:c:\users\nicol\onedrive\desktop\estudio\universidad\materias-c2\programacion - 2\9 - tp - final\tp final grupo\tp-final\empleado.cpp
+	"Empleado.h"
+
+1730064727 c:\users\nicol\onedrive\desktop\estudio\universidad\materias-c2\programacion - 2\9 - tp - final\tp final grupo\tp-final\empleado.h
+
+1730122783 source:c:\users\nicol\onedrive\desktop\codigogit\tp-final\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1730122290 c:\users\nicol\onedrive\desktop\codigogit\tp-final\cliente.h
+	"Persona.h"
+
+1730069095 c:\users\nicol\onedrive\desktop\codigogit\tp-final\persona.h
+	"Fecha.h"
+
+1730068571 c:\users\nicol\onedrive\desktop\codigogit\tp-final\fecha.h
+	"string"
+
+1730064727 source:c:\users\nicol\onedrive\desktop\codigogit\tp-final\empleado.cpp
+	"Empleado.h"
+
+1730064727 c:\users\nicol\onedrive\desktop\codigogit\tp-final\empleado.h
+
+1730073434 source:c:\users\nicol\onedrive\desktop\codigogit\tp-final\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1730122622 source:c:\users\nicol\onedrive\desktop\codigogit\tp-final\persona.cpp
+	"Persona.h"
+	<iostream>
+	"cstring"
+
+1730133077 source:c:\users\nicol\onedrive\desktop\tp-final-n\tp-final\cliente.cpp
+	"Cliente.h"
+	<iostream>
+
+1730122290 c:\users\nicol\onedrive\desktop\tp-final-n\tp-final\cliente.h
+	"Persona.h"
+
+1730069095 c:\users\nicol\onedrive\desktop\tp-final-n\tp-final\persona.h
+	"Fecha.h"
+
+1730068571 c:\users\nicol\onedrive\desktop\tp-final-n\tp-final\fecha.h
+	"string"
+
+1730133070 source:c:\users\nicol\onedrive\desktop\tp-final-n\tp-final\empleado.cpp
+	"Empleado.h"
+	<iostream>
+
+1730132533 c:\users\nicol\onedrive\desktop\tp-final-n\tp-final\empleado.h
+	"Persona.h"
+
+1730133249 source:c:\users\nicol\onedrive\desktop\tp-final-n\tp-final\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1730132693 source:c:\users\nicol\onedrive\desktop\tp-final-n\tp-final\main.cpp
+	<iostream>
+	"Empleado.h"
+	"Cliente.h"
+	"Proveedor.h"
+	"Fecha.h"
+
+1730133589 c:\users\nicol\onedrive\desktop\tp-final-n\tp-final\proveedor.h
+	"Persona.h"
+
+1730133086 source:c:\users\nicol\onedrive\desktop\tp-final-n\tp-final\persona.cpp
+	"Persona.h"
+	<iostream>
+	"cstring"
+
+1730133733 source:c:\users\nicol\onedrive\desktop\tp-final-n\tp-final\proveedor.cpp
+	"Proveedor.h"
+	<iostream>
+
