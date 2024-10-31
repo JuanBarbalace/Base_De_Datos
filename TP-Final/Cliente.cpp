@@ -24,6 +24,7 @@ void Cliente::setIdCliente(const int idCliente)
 void Cliente::cargar()
 {
     cout << "Ingrese el ID Cliente: ";
+    cin.ignore();
     cin >> _idCliente;
     Persona::cargar();
 
@@ -35,6 +36,9 @@ void Cliente::cargar()
 
 void Cliente::mostrar()
 {
+    cout << "---------------------------------" << endl;
     cout << "ID Cliente: " << _idCliente << endl;
     Persona::mostrar();
+    cout << "---------------------------------" << endl;
+    cout << endl;
 }

@@ -47,9 +47,12 @@ void Empleado::cargar()
 
 void Empleado::mostrar()
 {
+    cout << "---------------------------------" << endl;
     cout << "ID Empleado: " << _idEmpleado << endl;
     Persona::mostrar();
     cout << "Fecha Contratacion: ";
     _fechaContratacion.mostrar();
+    cout << endl;
+    cout << "---------------------------------" << endl;
     cout << endl;
 }

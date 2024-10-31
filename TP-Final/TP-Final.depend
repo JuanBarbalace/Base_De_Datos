@@ -31,7 +31,7 @@
 
 1730064727 c:\users\nicol\onedrive\desktop\estudio\universidad\materias-c2\programacion - 2\9 - tp - final\tp final grupo\tp-final\empleado.h
 
-1730122783 source:c:\users\nicol\onedrive\desktop\codigogit\tp-final\cliente.cpp
+1730402702 source:c:\users\nicol\onedrive\desktop\codigogit\tp-final\cliente.cpp
 	"Cliente.h"
 	<iostream>
 
@@ -44,16 +44,18 @@
 1730068571 c:\users\nicol\onedrive\desktop\codigogit\tp-final\fecha.h
 	"string"
 
-1730064727 source:c:\users\nicol\onedrive\desktop\codigogit\tp-final\empleado.cpp
+1730390943 source:c:\users\nicol\onedrive\desktop\codigogit\tp-final\empleado.cpp
 	"Empleado.h"
+	<iostream>
 
-1730064727 c:\users\nicol\onedrive\desktop\codigogit\tp-final\empleado.h
+1730132533 c:\users\nicol\onedrive\desktop\codigogit\tp-final\empleado.h
+	"Persona.h"
 
-1730073434 source:c:\users\nicol\onedrive\desktop\codigogit\tp-final\fecha.cpp
+1730133249 source:c:\users\nicol\onedrive\desktop\codigogit\tp-final\fecha.cpp
 	"Fecha.h"
 	<iostream>
 
-1730122622 source:c:\users\nicol\onedrive\desktop\codigogit\tp-final\persona.cpp
+1730133086 source:c:\users\nicol\onedrive\desktop\codigogit\tp-final\persona.cpp
 	"Persona.h"
 	<iostream>
 	"cstring"
@@ -100,4 +102,29 @@
 1730133733 source:c:\users\nicol\onedrive\desktop\tp-final-n\tp-final\proveedor.cpp
 	"Proveedor.h"
 	<iostream>
+
+1730390791 source:c:\users\nicol\onedrive\desktop\codigogit\tp-final\proveedor.cpp
+	"Proveedor.h"
+	<iostream>
+
+1730133589 c:\users\nicol\onedrive\desktop\codigogit\tp-final\proveedor.h
+	"Persona.h"
+
+1730402608 source:c:\users\nicol\onedrive\desktop\codigogit\tp-final\main.cpp
+	<iostream>
+	"Empleado.h"
+	"Cliente.h"
+	"Proveedor.h"
+	"ArchivoClientes.h"
+	"Fecha.h"
+
+1730402421 c:\users\nicol\onedrive\desktop\codigogit\tp-final\archivoclientes.h
+	"Cliente.h"
+	<string>
+
+1730401808 source:c:\users\nicol\onedrive\desktop\codigogit\tp-final\archivoclientes.cpp
+	"ArchivoClientes.h"
+	<cstdio>
+	<iostream>
+	<string>
 

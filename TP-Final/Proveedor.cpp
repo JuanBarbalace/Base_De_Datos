@@ -35,7 +35,9 @@ void Proveedor::cargar()
 
 void Proveedor::mostrar()
 {
+    cout << "---------------------------------" << endl;
     cout << "ID Proveedor: " << _idProveedor << endl;
     Persona::mostrar();
+    cout << "---------------------------------" << endl;
     cout << endl;
 }
